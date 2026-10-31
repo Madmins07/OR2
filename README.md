@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3.10+-A6BDAD?style=flat-square&labelColor=0B0E0D&logo=python&logoColor=EEF1ED" alt="python 3.10+"/>
-  <img src="https://img.shields.io/github/last-commit/Madmins07/OR2?style=flat-square&labelColor=0B0E0D&color=788A7F&label=updated" alt="last-commit"/>
-  <a href="https://uditangshu-or2-app-hjvctt.streamlit.app"><img src="https://img.shields.io/badge/live-uditangshu--or2--app--hjvctt.streamlit.app-EEF1ED?style=flat-square&labelColor=0B0E0D" alt="live uditangshu--or2--app--hjvctt.streamlit.app"/></a>
+  <img src="https://img.shields.io/badge/python-3.10+-8F5CFF?style=flat-square&labelColor=07080D&logo=python&logoColor=EEF1ED" alt="python 3.10+"/>
+  <img src="https://img.shields.io/github/last-commit/Madmins07/OR2?style=flat-square&labelColor=07080D&color=6F7693&label=updated" alt="last-commit"/>
+  <a href="https://uditangshu-or2-app-hjvctt.streamlit.app"><img src="https://img.shields.io/badge/live-uditangshu--or2--app--hjvctt.streamlit.app-F3F5FF?style=flat-square&labelColor=07080D" alt="live uditangshu--or2--app--hjvctt.streamlit.app"/></a>
 </div>
 
 ## about
