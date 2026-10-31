@@ -1,4 +1,3 @@
-!pip install pulp
 import pandas as pd
 import numpy as np
 from functools import lru_cache
@@ -497,7 +496,7 @@ class PackingOptimizer:
 # Usage with Excel file
 if __name__ == "__main__":
     # File path to the Excel file
-    excel_file_path = "Indian_College_Student_Dorm_Items_Expanded (1) (1).xlsx"
+    excel_file_path = "data/dorm_items.xlsx"
 
     # Check if file exists
     if not os.path.exists(excel_file_path):
